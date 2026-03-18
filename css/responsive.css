@@ -1,0 +1,577 @@
+@media screen and (max-width: 1700px)
+{
+/*----------------- how to get coverage style start -----------------*/
+.small-title {
+    left: -120px;
+}
+/*----------------- how to get coverage style end -----------------*/
+}/*----end of 1700----*/
+
+@media screen and (max-width: 1600px)
+{
+/*----------------- how to get coverage style start -----------------*/
+.small-title {
+    left: -90px;
+}
+.get-coverage-content {
+    padding-left: 50px;
+}
+/*----------------- how to get coverage style end -----------------*/
+}/*----end of 1600----*/
+
+@media screen and (max-width: 1500px)
+{
+/*----------------- after slider form style start -----------------*/
+.after-banner-form-inner-section {
+	margin: -220px 0 0;	
+}
+/*----------------- after slider form style end -----------------*/
+
+/*----------------- how to get coverage style start -----------------*/
+.get-coverage-content {
+    max-width: 700px;
+}
+/*----------------- how to get coverage style end -----------------*/
+
+/*----------------- peace of mind style start -----------------*/
+.peace-of-mind-block-inner {
+    padding: 37px 35px 40px;
+}
+.peace-of-mind-block-inner h4 {
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+/*----------------- peace of mind style end -----------------*/
+
+/*----------------- why choose us style start -----------------*/
+.why-choose-content-block {
+    padding: 40px 4.4%;
+}
+.why-choose-block-container {
+    margin: 10px 0 0;
+}
+/*----------------- why choose us style end -----------------*/
+}/*----end of 1500----*/
+
+@media screen and (max-width: 1300px)
+{
+/*----------------- after slider form style start -----------------*/
+.after-banner-form-inner-section {
+	margin: -170px 0 0;	
+}
+/*----------------- after slider form style end -----------------*/
+
+/*----------------- how to get coverage style start -----------------*/
+.get-coverage-content {
+    max-width: 650px;
+}
+/*----------------- how to get coverage style end -----------------*/
+}/*----end of 1300----*/
+
+@media screen and (max-width: 1199px)
+{
+/*----------------- banner slider style start -----------------*/
+.banner-slider .slick-next {
+    right: 3%;
+}
+.banner-slider .slick-prev {
+    left: 3%;
+}
+/*----------------- banner slider style end -----------------*/
+
+/*----------------- after slider form style start -----------------*/
+.after-banner-form-inner-section {
+	margin: -100px 0 0;
+	padding: 45px 25px 28px;
+}
+.btn-submit {
+    font-size: 16px;
+    line-height: 30px;
+    max-width: 220px;
+}
+/*----------------- after slider form style end -----------------*/
+
+/*----------------- how to get coverage style start -----------------*/
+.get-coverage-section {
+    padding: 70px 0 75px;
+}
+.section-header h2 {
+    font-size: 46px;
+    line-height: 56px;
+}
+.get-coverage-img img {
+    width: 38.4%;
+}
+.get-coverage-content {
+    max-width: 600px;
+}
+.get-coverage-block-container {
+    margin-top: 35px;
+}
+.get-coverage-block p {
+    font-size: 18px;
+    line-height: 26px;
+}
+.get-coverage-button-container a {
+    font-size: 16px;
+    line-height: 26px;
+    padding: 16px 10px;
+    max-width: 200px;
+    margin-top: 20px;
+}
+/*----------------- how to get coverage style end -----------------*/
+
+/*----------------- 3 Advantage block style start -----------------*/
+.adv-section {
+    padding: 80px 0 40px;
+}
+.dotted-line-img {
+    width: 70%;
+}
+/*----------------- 3 Advantage block style end -----------------*/
+
+/*----------------- peace of mind style start -----------------*/
+.peace-of-mind-section {
+    padding: 55px 0 50px;
+}
+.peace-of-mind-block-inner {
+    padding: 30px 25px 35px;
+}
+.peace-of-mind-block {
+    padding: 0 15px;
+}
+.section-header h3 {
+    font-size: 32px;
+}
+/*----------------- peace of mind style end -----------------*/
+
+/*----------------- why choose us style start -----------------*/
+.why-choose-section {
+    padding: 55px 0 80px;
+}
+.why-choose-img-shape-container {
+    width: 220px;
+}
+/*----------------- why choose us style end -----------------*/
+
+/*----------------- auto repair bill style start -----------------*/
+.repair-bill-section {
+    padding: 60px 0 0;
+}
+.repair-bill-block-container {
+    margin-top: 80px;
+}
+.repair-bill-content-block {
+    max-width: 350px;
+}
+.repair-bill-content {
+    padding: 0 25px;
+}
+.repair-bill-header, .repair-bill-title, .repair-bill-amount {
+    font-size: 20px;
+}
+/*----------------- auto repair bill style end -----------------*/
+}/*----end of 1199----*/
+
+@media screen and (max-width: 991px)
+{
+/*----------------- header style start -----------------*/
+.btn-call, .btn-mail {
+	max-width: 180px;
+}
+/*----------------- header style end -----------------*/
+
+/*----------------- banner slider style start -----------------*/
+.banner-slider .slick-prev, .banner-slider .slick-next {
+    width: 45px;
+    height: 45px;
+}
+/*----------------- banner slider style end -----------------*/
+
+/*----------------- after slider form style start -----------------*/
+.after-banner-form-inner-section {
+    margin: -65px 0 0;
+    padding: 30px 20px 28px;
+}
+.form-container form .form-input, .form-container form select.form-input {
+    width: -webkit-calc(33.33% - 20px);
+    width: -moz-calc(33.33% - 20px);
+    width: calc(33.33% - 20px);
+}
+/*----------------- after slider form style end -----------------*/
+
+/*----------------- how to get coverage style start -----------------*/
+.get-coverage-content {
+    padding-bottom: 50px;
+}
+.get-coverage-img img {
+    top: 77.2%;
+}
+.section-header h2 {
+    font-size: 42px;
+    line-height: 52px;
+}
+/*----------------- how to get coverage style end -----------------*/
+
+/*----------------- 3 Advantage block style start -----------------*/
+.adv-section {
+    padding: 50px 0 30px;
+}
+.adv-block-img {
+    padding: 0 25px;
+}
+.adv-block-number {
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+    line-height: 36px;
+    right: 43px;
+    bottom: 24px;
+}
+.adv-block-text h4 {
+    font-size: 20px;
+    line-height: 28px;
+}
+.adv-block-text p {
+    font-size: 18px;
+    line-height: 26px;
+}
+.dotted-line-img {
+    top: 50px;
+}
+/*----------------- 3 Advantage block style end -----------------*/
+
+/*----------------- peace of mind style start -----------------*/
+.section-header h3 {
+    font-size: 28px;
+    line-height: 56px;
+}
+.peace-of-mind-block {
+    width: 50%;
+}
+/*----------------- peace of mind style end -----------------*/
+
+/*----------------- why choose us style start -----------------*/
+.why-choose-img-shape-container {
+    width: 170px;
+}
+.why-choose-img-block {
+    padding: 35px 0 35px 35px;
+}
+/*----------------- why choose us style end -----------------*/
+
+/*----------------- auto repair bill style start -----------------*/
+.repair-bill-section {
+    padding: 45px 0 0;
+}
+.repair-bill-block-container {
+    margin-top: 50px;
+}
+.repair-bill-header, .repair-bill-title, .repair-bill-amount {
+    font-size: 18px;
+}
+/*----------------- auto repair bill style end -----------------*/
+}/*----end of 991----*/
+
+@media screen and (min-width: 768px)
+{
+.mobile-img {display: none;}
+}/*----end of min 768----*/
+
+@media screen and (max-width: 767px)
+{
+.desktop-img {display: none;}
+.container {
+    padding: 0 20px;
+}
+.row {
+    margin: 0 -20px;
+}
+/*----------------- header style start -----------------*/
+.header-section .row {flex-wrap: wrap;}
+.header-section {
+    padding: 0;
+    border-bottom: none;
+}
+.header-logo {
+    width: 100%;
+    text-align: center;
+    background: #000;
+    padding: 15px 0 6px;
+}
+.header-button-section {
+    text-align: center;
+    padding: 9px 10px;
+}
+.btn-call, .btn-mail, .on-scroll .btn-call, .on-scroll .btn-mail {
+    max-width: 160px;
+    font-size: 12px;
+    padding: 3.5px 10px;
+}
+.header-section.on-scroll {
+    padding: 0;
+}
+.on-scroll .header-logo {
+    padding: 10px 0 6px;
+}
+.on-scroll .header-logo a .color-logo {
+    max-width: 73px;
+}
+.on-scroll .header-button-section {
+    padding: 9px 10px;
+}
+.btn-mail {
+    margin-left: 15px;
+}
+/*----------------- header style end -----------------*/
+
+/*----------------- banner slider style start -----------------*/
+.banner-slider {
+    display: none;
+}
+/*----------------- banner slider style end -----------------*/
+
+/*----------------- after slider form style start -----------------*/
+.after-banner-form-section {
+	background-image: url(../images/slider-img.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding: 160px 0 0;
+}
+.after-banner-form-inner-section {
+    margin: 0 0 -135px;
+    padding: 22px 15px 15px;
+    position: relative;
+    z-index: 1;
+}
+.form-top-text-section h3 {
+    font-size: 16px;
+    line-height: 18px;
+}
+.form-top-text-section h4 {
+    font-size: 12px;
+    line-height: 18px;
+}
+.form-top-text-section p {
+    font-size: 12px;
+    line-height: 16px;
+}
+.form-container form .form-input, .form-container form select.form-input {
+    width: -webkit-calc(50% - 10px);
+    width: -moz-calc(50% - 10px);
+    width: calc(50% - 10px);
+    margin: 0 5px 10px;
+    font-size: 12px;
+    padding: 8px 12px;
+}
+.form-container form select.form-input:nth-last-child(2) {
+	width: -webkit-calc(100% - 10px);
+    width: -moz-calc(100% - 10px);
+    width: calc(100% - 10px);
+    background-position: 98% 50%;
+}
+.form-container form select.form-input {
+    background-position: 96% 50%;
+    padding-right: 25px;
+}
+.btn-submit {
+    font-size: 15px;
+    line-height: 30px;
+    max-width: none;
+    padding: 4.5px 10px;
+    box-shadow: none;
+}
+/*----------------- after slider form style end -----------------*/
+
+/*----------------- how to get coverage style start -----------------*/
+.get-coverage-section {
+    padding: 185px 0 60px;
+    background: #fff;
+    text-align: center;
+}
+.get-coverage-content {
+    padding: 0 20px;
+    max-width: none;
+}
+.small-title {
+    display: none;
+}
+.section-header h2 {
+    font-size: 28px;
+    line-height: 38px;
+    margin-bottom: 10px;
+}
+.get-coverage-block-container {
+    justify-content: center;
+    max-width: 400px;
+    margin: 45px auto 0;
+}
+.get-coverage-block {
+    width: 50%;
+    margin-bottom: 50px;
+}
+.get-coverage-block h4 {
+    font-size: 15px;
+    margin-top: 5px;
+    letter-spacing: -0.45px;
+}
+.get-coverage-block p {
+    font-size: 12px;
+    line-height: 30px;
+    margin-top: 0px;
+    letter-spacing: -0.36px;
+}
+.get-coverage-button-container a {
+    font-size: 18px;
+    line-height: 30px;
+    padding: 19px 10px;
+    max-width: 255px;
+    margin-top: 0px;
+}
+/*----------------- how to get coverage style end -----------------*/
+
+/*----------------- 3 Advantage block style start -----------------*/
+.adv-section {
+    padding: 50px 0 0px;
+}
+.adv-section .row {
+	flex-wrap: wrap;
+	align-items: center;
+	flex-direction: column;
+}
+.adv-block {
+    width: 100%;
+    margin-bottom: 50px;
+}
+.adv-block-text h4 {
+    font-size: 18px;
+    line-height: 38px;
+}
+.adv-block-text p {
+    font-size: 15px;
+    line-height: 17px;
+    margin-top: 0px;
+}
+.adv-block-inner {
+    max-width: 288px;
+}
+.adv-block-number {
+    font-size: 15px;
+    line-height: 38px;
+    right: 74px;
+    bottom: 30px;
+}
+/*----------------- 3 Advantage block style end -----------------*/
+
+/*----------------- peace of mind style start -----------------*/
+.section-header h3 {
+    font-size: 28px;
+    line-height: 36px;
+}
+.peace-of-mind-section .row {
+    margin-top: 15px;
+    flex-direction: column;
+    align-items: center;
+}
+.peace-of-mind-block {
+    width: 100%;
+    max-width: 367px;
+    margin-bottom: 20px;
+}
+.peace-of-mind-block-inner {
+    padding: 30px 22px 30px;
+}
+.peace-of-mind-block-inner img {
+	max-width: 106px;
+}
+.peace-of-mind-block-inner h4 {
+    margin-bottom: 5px;
+}
+.peace-of-mind-section {
+    padding: 55px 0 30px;
+}
+/*----------------- peace of mind style end -----------------*/
+
+/*----------------- why choose us style start -----------------*/
+.why-choose-block-container {
+    flex-direction: column;
+}
+.why-choose-img-block {
+    padding: 0 20px;
+    width: 100%;
+}
+.why-choose-content-block {
+    padding: 10px 20px 0;
+    width: 100%;
+    background-color: transparent;
+}
+.why-choose-content-inner ul {
+    margin: 10px 0 0;
+}
+.why-choose-content-inner img {
+    margin-top: 20px;
+}
+.why-choose-section {
+    padding: 50px 0;
+}
+/*----------------- why choose us style start -----------------*/
+
+/*----------------- auto repair bill style start -----------------*/
+.repair-bill-section {
+    padding: 50px 0 0;
+}
+.repair-bill-block-container {
+    flex-direction: column;
+    align-items: center;
+}
+.repair-bill-content-block {
+    max-width: 364px;
+    margin: 0 0 24px;
+}
+.repair-bill-header {
+    font-size: 25px;
+}
+.repair-bill-content {
+    padding: 0 20px;
+}
+.repair-bill-title, .repair-bill-amount {
+    font-size: 23px;
+}
+.repair-bill-img-block {
+    max-width: 300px;
+}
+.repair-bill-bottom-img {
+    margin: 0 -20px -50px;
+}
+.repair-bill-bottom-img img {
+	width: 100%;
+}
+/*----------------- auto repair bill style end -----------------*/
+
+/*----------------- footer style start -----------------*/
+.footer-section {
+    padding: 15px 0;
+}
+/*----------------- footer style end -----------------*/
+}/*----end of 767----*/
+
+@media screen and (max-width: 568px)
+{
+    
+}/*----end of 568----*/
+
+@media screen and (max-width: 480px)
+{
+    
+}/*----end of 480----*/
+
+@media screen and (max-width: 360px)
+{
+    
+}/*----end of 360----*/
+
+@media screen and (max-width: 320px)
+{
+    
+}/*----end of 320----*/

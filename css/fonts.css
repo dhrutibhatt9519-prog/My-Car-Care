@@ -1,0 +1,88 @@
+@font-face {
+    font-family: 'MontserratBold';
+    src: url('../fonts/Montserrat-Bold/MontserratBold.eot');
+    src: url('../fonts/Montserrat-Bold/MontserratBold.eot') format('embedded-opentype'),
+         url('../fonts/Montserrat-Bold/MontserratBold.woff2') format('woff2'),
+         url('../fonts/Montserrat-Bold/MontserratBold.woff') format('woff'),
+         url('../fonts/Montserrat-Bold/MontserratBold.ttf') format('truetype'),
+         url('../fonts/Montserrat-Bold/MontserratBold.svg#MontserratBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MontserratExtraBold_0';
+    src: url('../fonts/Montserrat-ExtraBold/MontserratExtraBold_0.eot');
+    src: url('../fonts/Montserrat-ExtraBold/MontserratExtraBold_0.eot') format('embedded-opentype'),
+         url('../fonts/Montserrat-ExtraBold/MontserratExtraBold_0.woff2') format('woff2'),
+         url('../fonts/Montserrat-ExtraBold/MontserratExtraBold_0.woff') format('woff'),
+         url('../fonts/Montserrat-ExtraBold/MontserratExtraBold_0.ttf') format('truetype'),
+         url('../fonts/Montserrat-ExtraBold/MontserratExtraBold_0.svg#MontserratExtraBold_0') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MontserratMedium_0';
+    src: url('../fonts/Montserrat-Medium/MontserratMedium_0.eot');
+    src: url('../fonts/Montserrat-Medium/MontserratMedium_0.eot') format('embedded-opentype'),
+         url('../fonts/Montserrat-Medium/MontserratMedium_0.woff2') format('woff2'),
+         url('../fonts/Montserrat-Medium/MontserratMedium_0.woff') format('woff'),
+         url('../fonts/Montserrat-Medium/MontserratMedium_0.ttf') format('truetype'),
+         url('../fonts/Montserrat-Medium/MontserratMedium_0.svg#MontserratMedium_0') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MontserratRegular';
+    src: url('../fonts/Montserrat-Regular/MontserratRegular.eot');
+    src: url('../fonts/Montserrat-Regular/MontserratRegular.eot') format('embedded-opentype'),
+         url('../fonts/Montserrat-Regular/MontserratRegular.woff2') format('woff2'),
+         url('../fonts/Montserrat-Regular/MontserratRegular.woff') format('woff'),
+         url('../fonts/Montserrat-Regular/MontserratRegular.ttf') format('truetype'),
+         url('../fonts/Montserrat-Regular/MontserratRegular.svg#MontserratRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MontserratSemiBold_0';
+    src: url('../fonts/Montserrat-SemiBold/MontserratSemiBold_0.eot');
+    src: url('../fonts/Montserrat-SemiBold/MontserratSemiBold_0.eot') format('embedded-opentype'),
+         url('../fonts/Montserrat-SemiBold/MontserratSemiBold_0.woff2') format('woff2'),
+         url('../fonts/Montserrat-SemiBold/MontserratSemiBold_0.woff') format('woff'),
+         url('../fonts/Montserrat-SemiBold/MontserratSemiBold_0.ttf') format('truetype'),
+         url('../fonts/Montserrat-SemiBold/MontserratSemiBold_0.svg#MontserratSemiBold_0') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ProximaNovaBold';
+    src: url('../fonts/ProximaNova-Bold/ProximaNovaBold.eot');
+    src: url('../fonts/ProximaNova-Bold/ProximaNovaBold.eot') format('embedded-opentype'),
+         url('../fonts/ProximaNova-Bold/ProximaNovaBold.woff2') format('woff2'),
+         url('../fonts/ProximaNova-Bold/ProximaNovaBold.woff') format('woff'),
+         url('../fonts/ProximaNova-Bold/ProximaNovaBold.ttf') format('truetype'),
+         url('../fonts/ProximaNova-Bold/ProximaNovaBold.svg#ProximaNovaBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ProximaNovaRegular';
+    src: url('../fonts/ProximaNova-Regular/ProximaNovaRegular.eot');
+    src: url('../fonts/ProximaNova-Regular/ProximaNovaRegular.eot') format('embedded-opentype'),
+         url('../fonts/ProximaNova-Regular/ProximaNovaRegular.woff2') format('woff2'),
+         url('../fonts/ProximaNova-Regular/ProximaNovaRegular.woff') format('woff'),
+         url('../fonts/ProximaNova-Regular/ProximaNovaRegular.ttf') format('truetype'),
+         url('../fonts/ProximaNova-Regular/ProximaNovaRegular.svg#ProximaNovaRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ProximaNovaSemibold';
+    src: url('../fonts/ProximaNova-Semibold/ProximaNovaSemibold.eot');
+    src: url('../fonts/ProximaNova-Semibold/ProximaNovaSemibold.eot') format('embedded-opentype'),
+         url('../fonts/ProximaNova-Semibold/ProximaNovaSemibold.woff2') format('woff2'),
+         url('../fonts/ProximaNova-Semibold/ProximaNovaSemibold.woff') format('woff'),
+         url('../fonts/ProximaNova-Semibold/ProximaNovaSemibold.ttf') format('truetype'),
+         url('../fonts/ProximaNova-Semibold/ProximaNovaSemibold.svg#ProximaNovaSemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
