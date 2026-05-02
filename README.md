@@ -71,17 +71,7 @@ My-Car-Care/
 ├── js/
 ├── assets/
 └── README.md
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/dhrutibhatt9519-prog/My-Car-Care.git
-cd My-Car-Care
-
+```
 ---
 
 ## 💡 Use Cases
