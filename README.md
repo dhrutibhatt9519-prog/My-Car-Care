@@ -2,9 +2,12 @@
 
 A modern **car service & maintenance management web application** designed to help users efficiently manage vehicle servicing, bookings, and car care activities in one place.
 
----
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?logo=githubpages)](https://dhrutibhatt9519-prog.github.io/My-Car-Care/)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Live Demo](https://img.shields.io/badge/Live-Demo-green?logo=githubpages)
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
 ---
 
